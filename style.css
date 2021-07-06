@@ -35,3 +35,11 @@ section{
     background-image: url(shapes/frame\ 007.png);
     background-repeat: no-repeat;
 }
+h1{
+    text-align: center;
+}
+.example { 
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
