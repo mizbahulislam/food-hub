@@ -26,3 +26,12 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
+.dream-big{
+    background-image: url(shapes/frame\ 007.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.top-banner{
+    background-image: url(shapes/frame\ 007.png);
+    background-repeat: no-repeat;
+}
